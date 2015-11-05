@@ -1,0 +1,45 @@
+body{
+  color:red;
+  background-color: black;
+
+
+}
+#header{
+  width:750px;
+  margin: auto;
+  background-color: purple;
+  text-align: center;
+  position: relative;
+}
+
+#leftbody{
+  float:left;
+  background-color: white;
+  position: fixed;z-index: 10
+  }
+
+#rightbody{
+  float: right;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+}
+#wrapper{
+  background-color: white;
+  position: inherit;
+}
+#brocku{
+  position: relative;
+}
+
+.img{
+  position: relative;z-index:10;
+
+}
+
+.img2{
+  position: absolute;z-index: 8;
+}
+.box{
+  margin-left: 20%;
